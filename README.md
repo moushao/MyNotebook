@@ -2,10 +2,10 @@
 ---
 
 ### part 1：Android
-* APP启动过程
-* 性能优化总结
-* LeakCanary检测内存泄漏的原理
-* view的绘制原理
+* [APP启动过程](http://www.jianshu.com/p/6bb8946c54a6)
+* [性能优化总结](http://www.jianshu.com/p/62595f192759)
+* [LeakCanary检测内存泄漏的原理](http://www.jianshu.com/p/01cf95ed9273)
+* [view的绘制原理](http://www.jianshu.com/p/5ae3356014ed)
 * [oom避免方法总结](https://github.com/bboylin/MyNotebook/blob/master/part1/oom避免方法总结.md)
 * [Serializable和Parcelable的区别](https://github.com/bboylin/MyNotebook/blob/master/part1/Serializable%E5%92%8CParcelable%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 * [android中消息传递机制与多线程](https://github.com/bboylin/MyNotebook/blob/master/part1/android%E4%B8%AD%E6%B6%88%E6%81%AF%E4%BC%A0%E9%80%92%E6%9C%BA%E5%88%B6%E4%B8%8E%E5%A4%9A%E7%BA%BF%E7%A8%8B.md)
